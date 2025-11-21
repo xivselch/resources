@@ -1,14 +1,14 @@
-# XIVSelch Documentation
+<div align="center">
 
-This repository contains the official documentation for the XIVSelch project, including legal policies, API usage rules, and technical guidance for developers and contributors. It exists as a central reference point for how XIVSelch operates as an open-source, non-profit community platform built around tools and services for _Final Fantasy XIV_. All documentation stored here applies to the hosted platform at **[emetselch.xyz](https://emetselch.xyz)**, its public API, and related tools within the XIVSelch GitHub organisation.
+# xivselch/static
 
-The purpose of this repository is to provide clear, version-controlled documentation that can evolve over time as the project grows. By keeping policies and guidance separate from individual codebases, we ensure consistency, transparency, and ease of maintenance across the entire ecosystem. Additional documents may be added as required to support developers, users, and community members.
+**Documentation, guides, and curated content for the X|VSelch ecosystem**
 
-## Legal Documents
+[![GitHub](https://img.shields.io/github/license/xivselch/static)](/LICENSE.md)
+[![Support Server](https://discord.com/api/guilds/716712328477016175/embed.png)](https://discord.gg/x9Y7FbMrRZ)
 
-- [Privacy Policy](./legal/PRIVACY_POLICY.md) - How we collect, use, and protect your data
-- [Terms of Service](./legal/TERMS_OF_SERVICE.md) - Rules and guidelines for using XIVSelch services
+</div>
 
-## Contact
+This repository serves as the central hub for **static content** across the X|VSelch ecosystem. It includes guides, documentation, legal policies, and curated external resources to support contributors, developers, and community members. All content here applies to services hosted at [emetselch.xyz](https://emetselch.xyz) and related tools within the X|VSelch organisation.
 
-For questions, concerns, or data requests, please visit **[https://emetselch.xyz](https://emetselch.xyz)**
+*This repository is version-controlled to ensure clarity, transparency, and easy maintenance across the X|VSelch ecosystem.*
