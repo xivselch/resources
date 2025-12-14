@@ -1,1 +1,9 @@
-{ "glob": "**/*.{md,mdx}", "external": [] }
+{
+  "glob": "**/*.{md,mdx}",
+  "external": [
+    {
+      "url": "https://v2.xivapi.com/docs/welcome/",
+      "description": "Official XIVAPI v2 documentation"
+    }
+  ]
+}
