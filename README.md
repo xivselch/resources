@@ -27,7 +27,7 @@ A sample `meta.json` file looks like this:
 - **`glob`**:  
   A [glob pattern](https://code.visualstudio.com/docs/editor/glob-patterns) that selects which files in the folder (for example, `.md` and `.mdx` guides or event posts) are included. These are community resources, not technical documents.
 
-- **`external`**:  
+- **`external`** (optional):  
   A list of useful links and short descriptions for external resources — such as official sites, community projects, or recommended FFXIV links — to help players further. This helps connect X|VSelch to the broader FFXIV community.
 
 Repository maintainers may update or add `resources/**/meta.json` files to keep the list of resources helpful, easy to find, and current. The focus is always on supporting the FFXIV community and sharing useful resources, not maintaining official documentation.
