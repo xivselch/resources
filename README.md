@@ -22,6 +22,16 @@ A sample `meta.json` file looks like this:
 }
 ```
 
+As of Patch 7.4, Strategy Boards now exist! 🎉 When sharing please make sure you follow this format:
+
+```json
+{
+  "cape-westwind": {
+    "variants": [{ "name": "normal", "version": "7.4", "code": "..." }]
+  }
+}
+```
+
 ### Key Fields
 
 - **`glob`**:  

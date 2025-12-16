@@ -1,5 +1,5 @@
 {
   "cape-westwind": {
-    "variants": [{ "name": "normal", "version": "7.4", "url": "https://example.com/" }]
+    "variants": [{ "name": "normal", "version": "7.4", "code": "" }]
   }
 }
